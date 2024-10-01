@@ -6,3 +6,4 @@ lesson 6
 
 - Python 
 Team Member: Sergei - Working on ex3
+Team Member: Yao - Working on ex3
