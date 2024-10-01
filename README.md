@@ -5,3 +5,4 @@ lesson 6
 ## Alice's Favorite Programming Language 
 
 - Python 
+Team Member: Sergei - Working on ex3
